@@ -8,7 +8,6 @@ D:\Visual Studio\Calculator\fimoZ\bin\Debug\com.companyname.fimoz-Signed.apk.ids
 D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
 D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\build.props
 D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\adb.props
-D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\fimoZ.csproj.AssemblyReference.cache
 D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\stamp\_BuildLibraryImportsCache.stamp
 D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\res.flag
 D:\Visual Studio\Calculator\fimoZ\obj\Debug\110\lp\38\jl\files.cache
