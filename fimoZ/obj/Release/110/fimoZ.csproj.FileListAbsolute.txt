@@ -130,3 +130,4 @@ D:\Visual Studio\Calculator\fimoZ\obj\Release\110\stamp\_ConvertResourcesCases.s
 D:\Visual Studio\Calculator\fimoZ\obj\Release\110\stamp\_GenerateJavaStubs.stamp
 D:\Visual Studio\Calculator\fimoZ\obj\Release\110\stamp\_GeneratePackageManagerJava.stamp
 D:\Visual Studio\Calculator\fimoZ\obj\Release\110\stamp\_ResolveLibraryProjectImports.stamp
+D:\Visual Studio\Calculator\fimoZ\obj\Release\110\fimoZ.csproj.AssemblyReference.cache

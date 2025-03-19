@@ -51,6 +51,15 @@
     <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
     <EmbedAssembliesIntoApk>True</EmbedAssembliesIntoApk>
+    <AndroidKeyStore>false</AndroidKeyStore>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidSigningKeyStore>D:\Visual Studio\Calculator\mykeystore.jks</AndroidSigningKeyStore>
+    <AndroidSigningStorePass>74727472</AndroidSigningStorePass>
+    <AndroidSigningKeyAlias>111</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>74727472</AndroidSigningKeyPass>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
