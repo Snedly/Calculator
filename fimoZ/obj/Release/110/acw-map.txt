@@ -1,0 +1,6 @@
+fimoZ.MainActivity, fimoZ;crc64ac17da32f9b8605b.MainActivity
+fimoZ.MainActivity;crc64ac17da32f9b8605b.MainActivity
+fimoz.MainActivity;crc64ac17da32f9b8605b.MainActivity
+Google.Common.Util.Concurrent.IListenableFuture, Xamarin.Google.Guava.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
+Google.Common.Util.Concurrent.IListenableFuture;com.google.common.util.concurrent.ListenableFuture
+com.google.common.util.concurrent.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
